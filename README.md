@@ -143,11 +143,6 @@ Quickstart:
 
 This project is licensed under the MIT License.
 
-
-
-Created by [Gaurav Pandey](https://github.com/GauravPandey05).  
-Questions? Open an issue or reach out via GitHub.
-
 ---
 
 _Together, let’s build a stronger, more connected farming community!_ 🌱🤝🚜
